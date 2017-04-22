@@ -1,0 +1,36 @@
+{
+    "download": "Télécharger OnionShare",
+    "for-windows": "OnionShare pour Windows",
+    "pgp-sig": "Signature PGP",
+    "for-macosx": "OnionShare pour Mac OS X",
+    "news": "Dans la presse",
+    "disclaimer": "Comme tout les logiciels, OnionShare peut contenir des bugs ou des vulnérabilités. Parce qu'il est encore dans une phase initiale de développement, il est recommandé de prendre des précautions avant d'utiliser OnionShare dans un environnement à haut risque. En fin de compte, tout le monde utilise OnionShare à ses risques et périls.",
+    "slogan": "<strong>OnionShare</strong> est un outil open source vous permettant de partager anonymement et de manière sécurisée des fichiers de n'importe quelle taille. En savoir plus sur son fonctionnement et comment l'utiliser sur sa <a href=\"https://github.com/micahflee/onionshare/blob/master/README.md\">page GitHub</a>.",
+    "bugs": "Reporter des bugs",
+    "bugs-desc": "Vous avez trouvé un bug dans OnionShare ? Vérifiez la <a href=\"https://github.com/micahflee/onionshare/issues?state=open\">page des issues</a> pour voir s'il a déjà été reporté, ou <a href=\"https://github.com/micahflee/onionshare/issues/new\">ouvrez une nouvelle issue ici</a>.",
+    "ubuntu-instructions": "Si vous utilisez Ubuntu, ouvrez un terminal et tapez :",
+    "fedora-instructions": "Si vous utilisez Fedora, ouvrez un terminal et tapez :",
+    "linux": "Autre linux",
+    "linux-instructions": "Si vous utilisez une version différente de Linux, suivez ces <a href=\"https://github.com/micahflee/onionshare/blob/master/BUILD.md#gnulinux\">instructions pour compiler OnionShare</a>.",
+    "fork-github": "Fork me on GitHub",
+    "news-reports": [
+        {
+            "url": "http://www.wired.com/2014/05/onionshare/",
+            "title": "Free App Lets the Next Snowden Send Big Files Securely and Anonymously",
+            "img": "wired.png",
+            "alt": "Wired"
+        },
+        {
+            "url": "http://www.wired.com/2014/06/the-troubling-truth-of-why-its-still-so-hard-to-share-files-directly/",
+            "title": "The Troubling Truth of Why It's Still So Hard to Share Files Directly",
+            "img": "wired.png",
+            "alt": "Wired"
+        },
+        {
+            "url": "http://gizmodo.com/meet-onionshare-the-file-sharing-app-the-next-snowden-1597056567",
+            "title": "Meet Onionshare, the File Sharing App the Next Snowden Will Use",
+            "img": "gizmodo.png",
+            "alt": "Gizmodo"
+        }
+    ]
+}
