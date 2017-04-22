@@ -4,6 +4,7 @@
     "pgp-sig": "Signature PGP",
     "for-macosx": "OnionShare pour Mac OS X",
     "news": "Dans la presse",
+    "verifying-signatures": "<strong>Vérifier les signatures :</strong> le paquet pour Windows contient du code signé avec Authenticode, et le pauet pour Mac OS X contient du oce signé avec Gatekeeper. Si vous souhaitez vérifier manuellement les signature PGP, je les ai signées avec cette clé : 927F419D7EC82C2F149C1BD1403C2657CD994F73",
     "disclaimer": "Comme tout les logiciels, OnionShare peut contenir des bugs ou des vulnérabilités. Parce qu'il est encore dans une phase initiale de développement, il est recommandé de prendre des précautions avant d'utiliser OnionShare dans un environnement à haut risque. En fin de compte, tout le monde utilise OnionShare à ses risques et périls.",
     "slogan": "<strong>OnionShare</strong> est un outil open source vous permettant de partager anonymement et de manière sécurisée des fichiers de n'importe quelle taille. En savoir plus sur son fonctionnement et comment l'utiliser sur sa <a href=\"https://github.com/micahflee/onionshare/blob/master/README.md\">page GitHub</a>.",
     "bugs": "Reporter des bugs",
